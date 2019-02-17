@@ -14,6 +14,11 @@ public class lab1 {
     public static void addFeatureA(){
         System.out.println("Feature A added");
     }
+    
+    public static void addFeatureB(){
+        System.out.println("Feature B added");
+    }
+    
     /**
      * @param args the command line arguments
      */
